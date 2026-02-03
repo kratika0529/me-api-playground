@@ -3,9 +3,9 @@
 A professional backend API built with FastAPI that serves my candidate profile, projects, and work experience. This project fulfills the requirements for the AI Engineer Track A assessment.
 
 ## 👤 Candidate Information
-- **Name:** Kratika
-- **Resume:** [Link to your Resume/LinkedIn]
-- **LinkedIn:** https://www.linkedin.com/in/kratika-singh-40a3b231b
+- Name: Kratika
+- Resume: https://drive.google.com/file/d/1dGmlUV0Zw7cWG8Mb0g8CPhJR3CJjkSAX/view?usp=sharing
+- LinkedIn: https://www.linkedin.com/in/kratika-singh-40a3b231b
 
 ---
 
